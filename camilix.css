@@ -1,0 +1,12 @@
+.D{
+    font-size: 50px;
+    font-style: italic;
+    color:brown;
+}
+p{
+    font-size: 100px;
+    color:blue;
+}
+.body{
+    background-color: grey;
+}
